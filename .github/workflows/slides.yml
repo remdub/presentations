@@ -38,7 +38,9 @@ jobs:
         run: |
           mkdir -p dist
           for f in *.md; do
-            [ "$f" = "template.md" ] && continue
+            case "$f" in
+              template.md|README.md|CLAUDE.md) continue ;;
+            esac
             name="${f%.md}"
             npx marp --theme theme.css "$f" -o "dist/${name}.html"
           done
