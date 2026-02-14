@@ -2,11 +2,6 @@
   "name": "presentation-template-light",
   "version": "1.0.0",
   "private": true,
-  "scripts": {
-    "dev": "marp --theme theme.css -w slides.md -p",
-    "build": "marp --theme theme.css slides.md -o dist/slides.html",
-    "pdf": "marp --theme theme.css slides.md --pdf -o dist/slides.pdf"
-  },
   "devDependencies": {
     "@marp-team/marp-cli": "^4"
   }
