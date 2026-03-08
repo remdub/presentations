@@ -59,8 +59,8 @@ Selon vous, ces logiciels du quotidien sont-ils "ouverts" (Open Source) ou "ferm
 
 - **Systèmes d'exploitation** : iOS vs Android
 - **Bureautique** : Microsoft Word vs LibreOffice
-- **Navigateurs** : Google Chrome / Edge vs Mozilla Firefox
-- **Multimédia** : VLC
+- **Navigateurs** : Google Chrome / Microsoft Edge vs Mozilla Firefox
+- **Traitement d'images** : Adobe Photoshop vs GIMP
 
 ![bg right:30% w:400](https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg)
 
@@ -96,7 +96,7 @@ Une licence **Open Source** (à code source ouvert) garantit à tout utilisateur
 
 ### Logiciel Open Source
 - Souvent gratuit, mais sa force est l'**ouverture du code**.
-- L'utilisateur obtient un droit d'usage, de modification et s'approche d'un **droit à la propriété** partagée.
+- L'utilisateur obtient un droit d'usage et de modification.
 - *Exemple : VLC.*
 
 </div>
