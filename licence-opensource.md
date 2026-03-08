@@ -22,6 +22,12 @@ Au terme de ces 20 minutes, vous serez capables de :
 - **Associer** des exemples concrets du quotidien à ces deux types de licences.
 
 ---
+
+# Open Source
+
+## Est-ce que ça parle à quelqu'un ?
+
+---
 <!-- _class: columns -->
 # La recette de cuisine
 
