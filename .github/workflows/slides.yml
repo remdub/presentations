@@ -44,7 +44,7 @@ jobs:
             name="${f%.md}"
             npx marp --theme theme.css "$f" -o "dist/${name}.html"
           done
-          cp  assets/* dist/
+          cp -r  assets dist/
 
       - name: Generate index page
         run: |
