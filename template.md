@@ -80,6 +80,24 @@ for i in range(10):
 
 ---
 
+<!-- _class: split -->
+
+# Deux colonnes (Markdown)
+
+> ### Colonne gauche
+>
+> - Point A
+> - Point B
+> - Point C
+
+> ### Colonne droite
+>
+> - Détail 1
+> - Détail 2
+> - Détail 3
+
+---
+
 # Bonjour
 
 - Premier point
@@ -94,6 +112,26 @@ for i in range(10):
 
 - Syntaxe Markdown standard pour les images
 - Ajoutez `w:500` ou `h:300` pour redimensionner
+
+---
+
+# Image à gauche
+
+![bg left:40%](https://picsum.photos/400/600)
+
+- Le contenu s'affiche à droite
+- `![bg left](image.png)` pour un partage 50/50
+- `![bg left:40%](image.png)` pour ajuster la largeur
+
+---
+
+# Image à droite
+
+![bg right:40%](https://picsum.photos/400/600)
+
+- Le contenu s'affiche à gauche
+- `![bg right](image.png)` pour un partage 50/50
+- `![bg right:40%](image.png)` pour ajuster la largeur
 
 ---
 
