@@ -2,7 +2,7 @@
 marp: true
 theme: custom-light
 paginate: true
-footer: "Informatique — Secondaire"
+footer: "Nom de la leçon"
 ---
 
 <!-- _class: lead center -->
@@ -11,10 +11,10 @@ footer: "Informatique — Secondaire"
 
 # Titre de la présentation
 
-## Votre nom — Informatique
+## Référentiel - Nom de la leçon
 
 ---
-
+![bg left:35% w:550](assets/mascotte-laptop.webp)
 # Plan
 
 1. Introduction
@@ -26,13 +26,36 @@ footer: "Informatique — Secondaire"
 
 ---
 
-# Concepts clés
+# Texte à gauche, mascotte à droite
+
+![bg right:35% w:550](assets/mascotte-toleft.webp)
 
 - **Premier point** — expliquez l'idée principale
 - **Deuxième point** — détail complémentaire
 - **Troisième point** — autre élément important
 
 > Utilisez les citations pour mettre en valeur une définition ou une remarque importante.
+
+
+---
+
+# Texte à droite, mascotte à gauche
+
+![bg left:35% w:550](assets/mascotte-toright.webp)
+
+- **Premier point** — expliquez l'idée principale
+- **Deuxième point** — détail complémentaire
+- **Troisième point** — autre élément important
+
+> Utilisez les citations pour mettre en valeur une définition ou une remarque importante.
+
+---
+
+# Question ouverte
+
+## Quelle est la couleur du cheval blanc d'Henri IV ?
+
+![bg right:35% w:550](assets/mascotte-interrogation.webp)
 
 ---
 
@@ -51,46 +74,27 @@ for i in range(10):
 - Utilisez `inline code` pour les références courtes
 - Marp supporte la coloration syntaxique
 
----
-
-<!-- _class: columns -->
-
-# Mise en page deux colonnes
-
-<div class="col">
-<div>
-
-### Colonne gauche
-
-- Point A
-- Point B
-- Point C
-
-</div>
-<div>
-
-### Colonne droite
-
-- Détail 1
-- Détail 2
-- Détail 3
-
-</div>
-</div>
+![bg right:35% w:550](assets/mascotte-example-toleft.webp)
 
 ---
 
 <!-- _class: split -->
 
-# Deux colonnes (Markdown)
+# Mise en page plusieurs colonnes
 
-> ### Colonne gauche
+> ### Colonne 1
 >
 > - Point A
 > - Point B
 > - Point C
 
-> ### Colonne droite
+> ### Colonne 2
+>
+> - Détail 1
+> - Détail 2
+> - Détail 3
+
+> ### Colonne 3
 >
 > - Détail 1
 > - Détail 2
@@ -137,6 +141,8 @@ for i in range(10):
 
 <!-- _class: lead center -->
 <!-- _paginate: skip -->
+
+![bg left](assets/mascotte-original.webp)
 
 # Merci !
 
