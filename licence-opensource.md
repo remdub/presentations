@@ -14,7 +14,7 @@ footer: "UAA0 - La licence Open Source"
 
 ---
 
-![bg left](assets/avatar-agenda.webp)
+![bg left](assets/mascotte-laptop.webp)
 
 ## Objectifs de la séance
 
@@ -42,7 +42,7 @@ Au terme de ces 20 minutes, vous serez capables de :
 # La recette de cuisine
 
 
-![bg right:30% w:400](assets/pop-coca.webp)
+![bg right:35% w:650](assets/mascotte-soda.webp)
 
 ### La recette secrète
 - Comme une célèbre boisson gazeuse.
@@ -51,7 +51,7 @@ Au terme de ces 20 minutes, vous serez capables de :
 
 ---
 # La recette de cuisine
-![bg left:30% w:400](assets/pop-crepe.webp)
+![bg left:35% w:650](assets/mascotte-crepe.webp)
 
 ### La recette partagée
 - Comme une recette de pâte à crêpes sur un blog collaboratif.
@@ -131,7 +131,7 @@ Au terme de ces 20 minutes, vous serez capables de :
 <!-- _paginate: skip -->
 <!-- _footer: "" -->
 
-![bg right:30% w:400](assets/avatar-interrogation.webp)
+![bg right:30% w:550](assets/mascotte-interrogation.webp)
 ## Qu'est-ce qu'une licence Open Source?
 
 Une licence **Open Source** (à code source ouvert) garantit à tout utilisateur des libertés fondamentales :
@@ -145,7 +145,7 @@ Une licence **Open Source** (à code source ouvert) garantit à tout utilisateur
 
 ---
 <!-- _class: split -->
-![bg left:30% w:400](assets/avatar-thinking.webp)
+![bg left:30% w:550](assets/mascotte-stop.webp)
 # Attention à la nuance !
 
 
@@ -164,7 +164,7 @@ Une licence **Open Source** (à code source ouvert) garantit à tout utilisateur
 
 ---
 <!-- _class: split -->
-![bg right:40% w:700](assets/avatar-note.webp)
+![bg right:45% w:650px](assets/mascotte-checklist.webp)
 # À retenir (Trace écrite)
 
 > Un logiciel sous licence **"Open Source"** possède un code informatique accessible et public.
@@ -180,6 +180,3 @@ Une licence **Open Source** (à code source ouvert) garantit à tout utilisateur
 # Merci pour votre participation !
 
 ## Des questions ?
-
-_Les mascottes utilisées dans les différentes slides sont des créations originales réalisées avec Nano Banana© et sont inspirées des figurines Funko - Pop!©._
-_Utilisation dans le cadre de l'exception pédagogique (fair use)_
