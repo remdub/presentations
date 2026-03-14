@@ -2,14 +2,15 @@
 marp: true
 theme: custom-light
 paginate: true
-footer: "Informatique — 3e Année TT"
+footer: "UAA0 - La licence Open Source"
 ---
 <!-- _class: lead center -->
 <!-- _paginate: skip -->
 <!-- _footer: "" -->
 
 # La licence Open Source
-### 3e Année TT Informatique
+### UAA0 : Numérique
+#### Année scolaire 2025-2026
 
 ---
 
@@ -22,6 +23,7 @@ Au terme de ces 20 minutes, vous serez capables de :
 - **Expliciter** la notion de « licence open source ».
 - **Distinguer** un logiciel open source d'un logiciel propriétaire (droit d'usage vs droit à la propriété).
 - **Associer** des exemples concrets du quotidien à ces deux types de licences.
+
 <!-- 2 minutes -->
 ---
 
@@ -62,7 +64,7 @@ Au terme de ces 20 minutes, vous serez capables de :
 -->
 ---
 <!-- _class: lead -->
-![bg right:30% w:400](https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg)
+![bg right:30% w:400](assets/opensource-github.svg)
 
 # Ouvert ou Fermé ?
 
@@ -171,9 +173,13 @@ Une licence **Open Source** (à code source ouvert) garantit à tout utilisateur
 
 
 ---
+
 <!-- _class: lead center -->
 <!-- _paginate: skip -->
 <!-- _footer: "" -->
 # Merci pour votre participation !
 
 ## Des questions ?
+
+_Les mascottes utilisées dans les différentes slides sont des créations originales réalisées avec Nano Banana© et sont inspirées des figurines Funko - Pop!©._
+_Utilisation dans le cadre de l'exception pédagogique (fair use)_
