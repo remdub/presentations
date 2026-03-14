@@ -177,6 +177,9 @@ Une licence **Open Source** (à code source ouvert) garantit à tout utilisateur
 <!-- _class: lead center -->
 <!-- _paginate: skip -->
 <!-- _footer: "" -->
+
+![bg left](assets/mascotte-original.webp)
+
 # Merci pour votre participation !
 
 ## Des questions ?
