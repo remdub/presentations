@@ -14,6 +14,7 @@ footer: "Nom de la leçon"
 ## Référentiel - Nom de la leçon
 
 ---
+
 ![bg left:35% w:550](assets/mascotte-laptop.webp)
 # Plan
 
@@ -51,9 +52,9 @@ footer: "Nom de la leçon"
 
 ---
 
-# Question ouverte
+# Exemple de question
 
-## Quelle est la couleur du cheval blanc d'Henri IV ?
+### Exemple de slide avec question ?
 
 ![bg right:35% w:550](assets/mascotte-interrogation.webp)
 
@@ -75,6 +76,23 @@ for i in range(10):
 - Marp supporte la coloration syntaxique
 
 ![bg right:35% w:550](assets/mascotte-example-toleft.webp)
+
+---
+
+# Attention
+
+Exemple de slide où l'attention est nécessaire
+
+![bg right:35% w:550](assets/mascotte-stop.webp)
+
+---
+
+# Bravo
+
+Exemple de slide pour félicitations
+
+![bg left:35% w:550](assets/mascotte-happy.webp)
+
 
 ---
 
