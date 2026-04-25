@@ -157,6 +157,69 @@ Exemple de slide pour félicitations
 
 ---
 
+# Citation
+
+> "La programmation n'est pas une question de ce que vous savez ; c'est une question de ce que vous pouvez comprendre."
+> — Chris Pine
+
+---
+
+# Tableau de données
+
+| Concept | Description | Statut |
+| :--- | :--- | :--- |
+| Variable | Stockage de données | ✅ OK |
+| Boucle | Répétition de tâches | ⏳ En cours |
+| Fonction | Bloc de code réutilisable | ❌ À voir |
+
+---
+
+<!-- _class: center -->
+
+# Message percutant au centre
+### Une seule idée par slide pour un maximum d'impact.
+
+---
+
+# <!-- fit --> TITRE TRÈS LARGE (FIT)
+
+---
+
+# Mosaïque d'images
+
+![bg](https://picsum.photos/400/600?random=1)
+![bg](https://picsum.photos/400/600?random=2)
+![bg](https://picsum.photos/400/600?random=3)
+
+---
+
+# Fond avec filtre
+![bg blur:5px brightness:0.4](https://picsum.photos/1280/720?random=4)
+
+## Texte superposé
+Le flou et la luminosité réduite permettent de garder ce texte **lisible** même sur une image complexe.
+
+---
+
+<!-- _header: "Chapitre Spécial : Surcharge locale" -->
+<!-- _footer: "© 2024 - Confidentialité Totale" -->
+
+# Surcharge Header/Footer
+
+Cette diapositive possède son propre en-tête et son propre pied de page, différents du reste de la présentation.
+
+---
+
+# Typographie et Couleurs
+
+- **Texte en gras** (Couleur accent)
+- *Texte en italique* (Couleur accent-alt)
+- `Code en ligne` (Couleur orange)
+- ~~Texte barré~~ (Style par défaut)
+- [Lien hypertexte](https://marp.app)
+
+---
+
 <!-- _class: lead center -->
 <!-- _paginate: skip -->
 
