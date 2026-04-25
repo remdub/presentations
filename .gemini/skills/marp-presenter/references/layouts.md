@@ -226,3 +226,38 @@ def hello_world():
 
 <!-- Note : Merci pour votre attention. -->
 ```
+
+## Interactive & Advanced Layouts
+### Interactive Slide (Quiz / Debate)
+```markdown
+<!-- _class: lead -->
+# 💡 Quizz / Moment d'échange
+
+### [Question ou affirmation à débattre ?]
+
+1. Proposition A
+2. Proposition B
+3. Proposition C
+
+<!-- Note : Faites participer l'audience. Attendez leurs réponses avant de donner la solution ou d'approfondir. -->
+```
+
+### Two-Column Code Comparison
+```markdown
+<!-- _class: split -->
+# Comparaison de Code
+
+> ```python
+> # Approche A
+> def old_way():
+>     pass
+> ```
+
+> ```python
+> # Approche B
+> def new_way():
+>     pass
+> ```
+
+<!-- Note : Cette mise en page permet de montrer l'évolution d'un code ou de comparer deux syntaxes. -->
+```
