@@ -63,6 +63,5 @@ size: 16:9
 
 ![bg right:35%](assets/mascotte-interrogation.webp)
 
-*N'hésitez pas si vous avez besoin d'un coup de main en informatique pendant l'année, vous savez à quelle porte frapper !*
 
 <!-- speaker_note: "Merci de m'avoir écouté. Si vous avez des questions sur mon parcours ou si vous galérez avec un ordinateur cette année, n'hésitez pas !" -->
