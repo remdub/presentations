@@ -9,17 +9,15 @@ size: 16:9
 # Bonjour, je suis Rémi Dubois ! 👋
 ### Étudiant en CAP - Usages éducatifs des TICE
 
-![bg right:40%](https://images.unsplash.com/photo-1531482615713-2afd69097998?q=80&w=1000&auto=format&fit=crop)
-
-<!-- Note d'image générée par IA : Un informaticien souriant dans un style décontracté (t-shirt, lunettes), tenant une tasse de café devant un écran avec des éléments d'éducation flottants, style illustration 3D chaleureuse. -->
+![bg right:40%](assets/mascotte-laptop.webp)
 
 <!-- speaker_note: "Bonjour à tous, je m'appelle Rémi. Je suis ravi d'être parmi vous aujourd'hui pour me présenter rapidement." -->
 
 ---
 
-# 💻 Mon parcours en bref
+# 💻 Mon parcours en (très) bref
 
-![bg left:35%](assets/mascotte-checklist.webp)
+![bg left:40%](assets/mascotte-checklist.webp)
 
 - **20 ans d'expérience** dans l'informatique.
 - Les réseaux, le code, les ordinateurs... c'est mon terrain de jeu quotidien !
@@ -34,9 +32,9 @@ size: 16:9
 
 ![bg right:35%](assets/mascotte-toleft.webp)
 
-*Vous vous demandez peut-être ce qu'un informaticien vétéran fait ici ?*
+*Vous vous demandez peut-être ce qu'un informaticien fait ici ?*
 
-**Je suis là pour accompagner Laurence !**
+**Je suis là, à la base, pour accompagner Laurence !**
 - C'est avant tout un beau **projet à deux**.
 - L'occasion de partager une aventure commune et de se motiver mutuellement.
 - (Et accessoirement, de s'entraider pour les devoirs le soir !)
@@ -49,7 +47,6 @@ size: 16:9
 
 ![bg left:40%](https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=1000&auto=format&fit=crop)
 
-<!-- Note d'image générée par IA : Deux étudiants d'âge mûr qui collaborent joyeusement autour d'une tablette tactile dans une ambiance lumineuse et moderne. -->
 
 - **Démystifier les TICE** : comprendre comment mes outils de tous les jours s'intègrent concrètement dans une salle de classe.
 - **Échanger avec vous** : j'ai mon bagage technique, mais j'ai hâte d'apprendre de vos propres expériences !
@@ -61,7 +58,7 @@ size: 16:9
 
 ### Avez-vous des questions ?
 
-![bg right:35%](assets/mascotte-interrogation.webp)
+![bg right:45%](assets/mascotte-interrogation.webp)
 
 
 <!-- speaker_note: "Merci de m'avoir écouté. Si vous avez des questions sur mon parcours ou si vous galérez avec un ordinateur cette année, n'hésitez pas !" -->
