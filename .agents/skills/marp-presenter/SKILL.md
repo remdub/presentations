@@ -12,7 +12,7 @@ Ce skill permet de générer des présentations Marp de haute qualité en respec
 1. **Analyse & Structuration** : Définir le nombre optimal de slides selon la durée souhaitée.
 2. **Conception Visuelle** : Utiliser stratégiquement la mascotte et les mises en page dynamiques.
 3. **Gestion de l'Espace** : Garantir qu'aucun texte ne déborde du canevas 1280x720.
-4. **Illustration** : Proposer des prompts d'image précis et pertinents à l'utilisateur, afin qu'il puisse les générer avec son outil favori (ex: Midjourney, DALL-E) et les intégrer dans le dossier `assets/`.
+4. **Illustration** : Proposer des prompts d'image précis et pertinents à l'utilisateur pour qu'il puisse les générer avec **Nano Banana**, et lui demander de les intégrer dans le dossier `assets/`.
 
 ## Workflow
 
@@ -60,14 +60,14 @@ Avant de générer le code Markdown complet, vous DEVEZ générer un **sommaire 
 - **Blocs de code** : Maximum **15 lignes** par bloc. Au-delà, réduisez la taille de police (ex: `<style scoped>code { font-size: 20px; }</style>`) ou scindez sur plusieurs slides.
 - **Notes de l'orateur** : Générez systématiquement des notes détaillées : `<!-- Note : Votre texte ici -->`.
 - **Illustration (Génération de prompts)** : Pour illustrer des concepts complexes, l'agent ne génère PAS d'images automatiquement. À la place, il fournit à l'utilisateur :
-  - Un prompt détaillé pour chaque image nécessaire (ex: Midjourney, DALL-E, etc.).
+  - Un prompt détaillé pour chaque image nécessaire, optimisé pour **Nano Banana**.
   - Un nom de fichier recommandé (ex: `assets/illustration-concept.png`).
   - L'instruction explicite à l'utilisateur de sauvegarder ces images dans le dossier `assets/` avant de finaliser la présentation.
 - **Accessibilité (A11y)** : Texte alternatif obligatoire : `![w:500](url "Description détaillée")`.
 - **Syntaxes** : Respectez scrupuleusement les classes `lead`, `split`, etc.
 
 ### 5. Sauvegarde
-- **Fichier** : Une fois le code Markdown généré, sauvegardez-le dans un fichier `.md` à la racine du dépôt via `write_file`.
+- **Fichier** : Une fois le code Markdown généré, sauvegardez-le dans un fichier `.md` à la racine du dépôt via l'outil `write_to_file`.
 
 ## Références
 
